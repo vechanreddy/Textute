@@ -18,6 +18,7 @@ function Slide() {
         </div>
       </div>
     </div>
+    </div>
   )
 }
 
